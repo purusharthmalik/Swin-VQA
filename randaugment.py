@@ -1,9 +1,3 @@
-"""
-Code modified from PMC-VQA:
-https://github.com/xiaoman-zhang/PMC-VQA
-"""
-
-
 import cv2
 import numpy as np
 
